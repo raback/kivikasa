@@ -13,9 +13,11 @@ For simply storing heat water is of course ideal solution. Here the hope is
 that when using hot stones we could use the energy also to produce
 electricity alongside.
 
-I've trying to push this idea forward now and then number of years.
+I've trying to push this idea forward now for some years to
+people having the means to implement such ideas.
 Either the idea is bad or the right people have not been contacted.
-As this is not my main profession there is a big risk that the idea
-in fact is bad. However, with that risk in mind I thought I would try
+As I lack knowhow in some key technologies (e.g. heat exchangers) here
+there is a big risk that the idea
+in fact is really bad. However, with that risk in mind I thought I would try
 the open source approach to see whether it could fly. 
 

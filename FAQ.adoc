@@ -1,0 +1,31 @@
+= Questions about the method
+
+Q. Why do you not use sand? It would be much easier to treat?
+A. Sand has a pretty low thermal conductivity. If there is a huge
+pile of sand it will be difficult to get the the heat transferred in/out.
+
+
+Q. How big should the stones be?
+A. Preliminary analysis would suggest that size of 1 meter or so would
+be optimal for both providing efficient heat transfer within the stones
+and enabling convection through the stones.
+
+Q. Will the stones not fall a part eventually?
+A. Yes, that is a risk that should be studied. However, it should be noted the we are not planning
+to trough water on the stones so the temperature gradient and hence thermal stresses within the stone
+hopefully will not degrade the stone.
+
+Q. The method of using stones has been studied by smart people. What did they miss?
+A. We believe the the circumstances in Finland with a lot of cheap wind energy, lot of
+empty space and plenty of suitable stones make it economical to build larger storage
+facilities than initially considered. 
+
+Q. What is the key challenge in the proposed facility?
+A. A key challenge is how to design and control the flow of heat such that the stones are heated everywhere
+and can also release their heat in somewhat controlled manner. Could natural convection be used for our
+benefit. The design of the heat flow and heat exchangers is something that requires special knowhow.
+
+Q. How would the facility be insulated?
+A. It seems that mineral wool is suitable to insulate the top and the sides. However, the insulation for the
+bottom is more difficult since it will need to hold up the huge amount of stones. Possibly we need to be content
+with using sand for the bottom insulation. 
