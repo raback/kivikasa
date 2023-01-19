@@ -20,6 +20,12 @@ there is a big risk that the idea
 in fact is really bad. However, with that risk in mind I thought I would try
 the open source approach to see whether it could fly. 
 
+This is a open call to produce information, models, drawings, ideas, computaions etc. in this repo. I will try to contribute myself too. I have background
+in physics and I handle basic heat transfer, but turbulent CFD and
+existing technologies in heat exchangers and beyond is not really my cup of tea. If we would get together a group of people with complementary expertise we
+better determine the potential of this idea. 
+
+
 
 ## References
 
