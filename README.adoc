@@ -4,8 +4,8 @@ The world is in dire need of ways to store energy in an sustainable and
 economical way. This is particularly true for wind energy which has huge
 variations in production often in time-scale of weeks.
 
-The idea of using stones is not new but I believe that the key is to
-focus on low-tech solution that takes use of the scaling laws of heat transfer
+The idea of using stones is not new [1,2] but I believe that the key is to
+focus on really low-tech solution that takes use of the scaling laws of heat transfer
 in an optimal way. This could ideally happen in Finland where there is lot of
 empty space and plenty of stones. 
 
@@ -13,11 +13,18 @@ For simply storing heat water is of course ideal solution. Here the hope is
 that when using hot stones we could use the energy also to produce
 electricity alongside.
 
-I've trying to push this idea forward now for some years to
-people having the means to implement such ideas.
+I've trying to get people interested in the idea for already a few years. 
 Either the idea is bad or the right people have not been contacted.
 As I lack knowhow in some key technologies (e.g. heat exchangers) here
 there is a big risk that the idea
 in fact is really bad. However, with that risk in mind I thought I would try
 the open source approach to see whether it could fly. 
 
+
+## References
+
+https://cleantechnica.com/2019/03/19/storing-energy-by-heating-stones-to-600-degrees-could-power-whole-country-for-hours/
+
+https://www.niras.com/projects/innovative-energy-storage/
+
+https://www.theengineer.co.uk/content/news/hot-rocks-offer-solution-to-grid-scale-energy-storage
