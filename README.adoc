@@ -1,4 +1,4 @@
-#Storing energy using a pile of stones
+= Storing energy using a pile of stones
 
 The world is in dire need of ways to store energy in an sustainable and
 economical way. This is particularly true for wind energy which has huge
