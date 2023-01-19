@@ -1,0 +1,41 @@
+#Spotsähkön hinnan hyödyntäminen kuumien kivien lämpövarastolla
+
+Tuulivoiman lisääntyessä tullaan ajoittain tilanteeseen, jossa sähkön on ilmaista tai arvotonta, näkökulmasta riippuen. Sähkön varastointi on tunnetusti hankalaa ja mitä harvinaisempia tuotantopiikkejä halutaan varastoida sitä suurempi haaste on varastoinnin kalleus. Toisaalta kaikesta polttamiseen perustuvasta energiantuotannosta tulisi päästä eroon. Erityisesti tämä koskee turpeella tuotettua energiaa. Turvevoimalat ovat melko hajasijoitettuja ja sijaitsevat alueilla, joissa usein on käytössä tilaa varastoinnille.
+
+Tätä taustaa vasten ehdotan turvevoimaloiden korvaamista low-tech –ratkaisuna isoilla eristetyillä kivikasoilla. Kiven ominaislämpökapasiteetti on esim. veteen verrattuna vaatimaton, mutta kivien etuna on, että lämpötilaero voi olla kertaluokkaa suurempi. Korkea lämpötila mahdollistaa kuumien kivien käyttämisen myös sähkön tuotannossa.
+Olisi kenties mahdollista jopa käyttää olemassa olevaa teknologiaa turvevoimaloiden lämmönvaihtimista ja höyryturbiineista, mikä saattaisi tehdä ratkaisuista taloudellisempia.
+
+Idea ei ole todellakaan uusi, siitä löytyy lukuisia julkaisuja. Se mikä tekee tekniikan erityisen soveltuvaksi Suomen olosuhteisiin on pinta-alan ja kivimassan hyvä saatavuus ja toisaalta olemassa olevien kaukolämpöverkostojen hyödyntäminen yhdistettynä tarpeeseen korvata tuulivoima jollain. On paljon järkevämpää vaihtaa kunnallinen energiamuoto keskitetysti kuin uusia jokaisen kiinteistön lämmitystekniikka erikseen.
+
+Kuinka iso kasa kiviä sitten tarvittaisiin?
+
+Oletetaan että haluamme korvata noin 30 MW keskikokoisen turvevoimalaitoksen. Tällöin viikon kulutusta vastaisi 7*24*3600*30e6 Joulea. Graniitin ominaislämpökapasiteetti on taas 0.75 kJ/kgC ja tiheys
+2600 kg/m^3. Jos oletetaan käyttökelpoiseksi lämpötilaeroksi 500 C, niin viikon energiaa vastaava määrä kiviä olisi 18600 m^3 tai 48360 tn. Tätä vastaava energiamäärä olisi noin 5000 MWh.
+
+Optimaalinen muoto kivikasalle olisi luonnollisesti pallo, sen halkasijaksi tulisi noin 32.8 m. Palloa on teknisesti haastava toteuttaa.
+Realistisempaa on käyttää suorakaiteen muotoista varastoa. Esim. 10 metriä korkea suorakaiteen muotoisen kivikasan tulisi olla 43.1 metriä kanttiinsa. Eli kokoluokka parille viikolla olisi jalkapallokenttä 10 metriä korkealla kivikasalla.
+
+Minkäkokoisia kivien pitäisi sitten olla? Tämä on optimointikysymys. Liian suuret kivet eivät pysty luovuttamaan lämpöä riittävän nopeasti, koska niiden efektiivinen pinta-ala on liian pieni. Toisaalta liian pienet kivet tekevät ilman läpäisyn ja konvektiivisen lämmönsiirron hankalaksi. Toki kivet ajan myötä halkeilisivat ja rapautuvat, mutta järjestelmän pitäisi olla melko robusti tälle. Kivien välissä pitäisi toki olla ilmaa, mikä heikentää jonkin verran laitoksen kapasiteettiä (en jaksanut päivittää ao.
+laskuja, pallo täyttää tilavuuden 52%, ehkä kivet noin 70%, eli kasan korkeuden joutuu kertomaan tekijällä ~1.5).
+
+Mitä kivet sitten maksaisivat? Halvimmillaan sora näyttää vähittäismyynnissä olevan 2 e/tn. Tällä laskien pelkkien kivien hinta olisi luokaa 100,000 euroa. Jos arvioidaan varastoidun energian arvon olevan 1 c/kWh, niin täyden varaston arvo olisi noin 50,000 euroa. Sähkön hinta toki on suurempi, mutta laitteisto palauttaisi sähköksi varmaankin noin 30% energiastaan. Arvio hinnasta on silti hyvin konservatiivinen.
+Silti kivien hinta tulisi kompensoitua nopeasti. Kustannukset olisivat pääosin muualla.
+
+Kaikki näyttää toistakseksi melko hyvältä. Lämpövaraston haaste on eristys. Esimerkkimme pinta-ala on noin 5400 m^2. Oletetaan eristysaineeksi vuorivilla ja oletetaan lämmönjohtuvuuden olevan vakio
+0.036 W/mC (esim. Paroc kivivilla). Oletus on todennäköisesti heikko, mutta sopii karkeaan arvioon. Jos eristepaksuus olisi 1 m olisi lämpövuo näin 97 kW. Asetetaan suunnittelukriteeriksi että 5% energiasta saa johtua pois viikossa. Tällöin eristeen paksuudeksi saadaan 23.5 cm. Tämä voi olla hyvin optimistinen arvio. Etenkin alustan eristäminen voi olla haastava teknisesti, koska sen pitää samalla olla eristävä ja kantaa valtava määrä kiviä. Lisäksi lämmönjohtuminen voi kasvaa merkittävästikin lämpötilan funktiona.
+
+Mitä eriste maksaisi? Yllä eristeen määrä olisi noin 1270 m^3.
+Vähittäishinta kivivillalle näyttää halvimmillaan olevan noin 10 e/m^3.
+Eli voidaan arvioida, että pelkän eristeenkin hinnan olevan hyvin siedettävä.
+
+Kivien lämmitys on aiemmin toteutetuissa laitoksissa toteutettu puhaltamalla kuumaa ilmaa laitoksen läpi ja vastaavasti purku puhaltamalla kylmää ilmaa, joka lämpenee mennessään laitoksen läpi. Näin sillä voidaan ajaa myös höyryturbiinia. Kun lämpötilaero laskee, myös laitteiston hyötysuhde laskee. Todennäköisesti laitteisto voidaan ajaa hyvinkin tyhjiin kaukolämmön tarpeisiin, mutta sähköntuotanto onnistuu parhaiten, kun kivet ovat lämpimiä. Lämpövoimakoneen hyötysuhde voisi vaihdella ehkä välillä 0..20-40%.
+
+Onko viikon varastointikapasiteetti riittävä? Näyttäisi siltä, että merkittävä osuus kulutushuipuista saataisiin sillä tasattua. Tokikaan useamman viikon tuuletonta jaksoa systeemi ei kestäisi, vaan tämäkin saattaisi tarvita tuekseen polttoon perustuvan järjestelmän. Laitoksen ajamisessa kulutuksen ja tuotannon ennustaminen olisi tärkeässä asemassa, koska ne määrittelisivät, koska energia kannattaisi purkaa.
+Koko voimalaitoksen hintaa en taustallani osaa arvioida. Kivien ja eristeen hinta on todennäköisesti vain pieni osa kokonaiskustannuksista.
+Lupauksia herättävää kuitenkin on, että niiden hinta vastaisi vain todennäköisesti vain paria varaussykliä. Jos lopullinen hinta olisi kertaluokkaa tai paria suurempi, olisi takaisinmaksuaika silti melko lyhyt.
+
+Edellä on kuvattu lähinnä ajatuskoemaisesti jättimäisen kiukaan mahdollisuutta energianvarastointiin. Koska tällä hetkellä energian varastointi on vähäistä, on ajoittain tarjolla hyvinkin edullista energiaa. Energian ei tarvitsisi olla ilmaista mutta oleellista on, että
+minimi- ja maksimihintojen välillä on moninkertainen ero (vrt. sähköksi palautuksen hyötysuhden ~30%). Käyttämällä halpaa teknologiaa ja läheltä saatavia kiviä, voidaan varastosta tehdä taloudellisesti järkevä. Idea on käyttää korkeita lämpötiloja, jolloin voidaan korvata nykyisiä polttoon perustuvia voimalaitoksia. Hetkelliset tehot lämmityksessä olisivat varmasti kantaverkolle haaste, mikä tulisi myös huomioida sijoittelussa.
+
+Tekniikalla näyttää olevan testilaitteistoja toteutettu mm. Saksassa.
+Nähdäkseni siellä ei ole ollut vastaavia etuja, joita Suomessa voisi löytyä. Varastointikapasiteetti riippuu hyvinkin suoraan laitteiston koosta. Näyttää myös siltä, että eristys ei ole haetuissa aikaskaaloissa erityisen ongelmallinen. Suunnittelussa voisikin pyrkiä tiettyyn robustiuteen. Rakennustyöstä suurimman osan voisi tällöin hoitaa alueelliset maansiirto- ja rakennusfirmat. Tekniikka sopisi myös alueellisille energiayhtiöille hyvin. Sekä nykyiset turpeen polttajat, että tuulisähkön tuottajat voisivat tällä täydentää energiapalettiaan.
